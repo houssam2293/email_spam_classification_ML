@@ -42,6 +42,6 @@ between the two hypotheses ![equation](http://bit.ly/34W1FMq) (e.g. {Spam;NonSpa
 
 # Datasets
 
-I have used the curated "pre-processed" files of the ![Enron accounting scandal](http://nlp.cs.aueb.gr/
-software_and_datasets/Enron-Spam/) Each archive contains two folders: "spam" and "ham". Each
+I have used the curated "pre-processed" files of the [Enron accounting scandal](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam) 
+Each archive contains two folders: "spam" and "ham". Each
 of folder contains thousands emails each stored in its own file.
