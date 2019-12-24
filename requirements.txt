@@ -1,0 +1,5 @@
+matplotlib
+numpy>=1.17.4
+pandas
+seaborn
+nltk
